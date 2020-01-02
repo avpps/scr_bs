@@ -1,0 +1,12 @@
+- call_params:
+    get:
+      url: https://docs.python.org/3.7/howto/argparse.html
+      params: []
+  scraping_params:
+    p_1: none
+- call_params:
+    get:
+      url: https://www.google.pl
+      params: []
+  scraping_params:
+    p_1: none
